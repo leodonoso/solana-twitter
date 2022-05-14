@@ -1,6 +1,7 @@
 {
     "dependencies": {
-        "@project-serum/anchor": "^0.23.0"
+        "@project-serum/anchor": "^0.23.0",
+        "dayjs": "^1.11.1"
     },
     "devDependencies": {
         "@types/bn.js": "^5.1.0",
